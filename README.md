@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 - Solution URL: [https://github.com/ikreuz](https://github.com/ikreuz/single-price-grid-challenge)
-- Live Site URL: [https://vercel.com]()
+- Live Site URL: [https://vercel.com](https://single-price-grid-challenge-seven.vercel.app)
 
 ## My process
 
